@@ -14,7 +14,7 @@ Scripts use one or more of the following libraries:
 - **match_analysis_accu.py**: Obtain tuned model accuracy for each of the ontologies by label type.
 - **match_analysis_exhaust_f1.py**: Obtain tuned model exhaustiveness and F1-score for each one of the ontologies by label type.
 
-##Dependencies
+## Dependencies
 - **dotenv**: Read key-value pairs from a .env file and set them as environment variables
 - **openai**: The OpenAI Python library provides convenient access to the OpenAI REST API from any Python 3.7+ application
 - **sklearn.model_selection**: Tools for model selection, such as cross validation and hyper-parameter tuning.
