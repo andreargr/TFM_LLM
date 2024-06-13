@@ -1,0 +1,502 @@
+{
+    "A9": [
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-"
+    ],
+    "c42-shpsa": [
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-"
+    ],
+    "HIT M 2.2.2": [
+        "-",
+        null,
+        "-",
+        "B cell",
+        "-",
+        "humerus",
+        "-",
+        "-"
+    ],
+    "Aska-BAF47KO1 shSSX": [
+        "-",
+        "-",
+        "synovial cell",
+        "synovial cell",
+        "articulation",
+        "articulation",
+        "-",
+        "-"
+    ],
+    "OSK": [
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-"
+    ],
+    "H3.3K27M-KO_DIPGXIII-C14-nKO-Rx_PARENTAL_cells": [
+        "-",
+        "-",
+        "-",
+        "-",
+        "brain",
+        "brain",
+        "-",
+        "-"
+    ],
+    "7250-PAX3-FOXO1": [
+        "-",
+        "-",
+        "-",
+        "-",
+        "skeletal muscle tissue",
+        "membranous urethra of male or female",
+        "-",
+        "-"
+    ],
+    "CB5_H3K27Ac": [
+        "-",
+        "-",
+        "-",
+        "fibroblast",
+        "tonsil",
+        "bone marrow",
+        "-",
+        "-"
+    ],
+    "NT2": [
+        "-",
+        "NT2-D1 cell",
+        "-",
+        "pluripotent stem cell",
+        "-",
+        "testis",
+        "-",
+        "NT2/D1 cell"
+    ],
+    "V457": [
+        "-",
+        "-",
+        "colon epithelial cell",
+        "-",
+        "colon",
+        "hypaxial myotome region",
+        "-",
+        "-"
+    ],
+    "V1051": [
+        "-",
+        "-",
+        "colon epithelial cell",
+        "colon epithelial cell",
+        "colon",
+        "colon",
+        "-",
+        "-"
+    ],
+    "H3.3K27M_XPS124018_xenograft": [
+        "-",
+        "-",
+        "-",
+        "-",
+        "brain",
+        "brain",
+        "-",
+        "-"
+    ],
+    "PLHSAR": [
+        "-",
+        "RCB2286 cell",
+        "-",
+        "squamous epithelial cell",
+        "-",
+        "urethra",
+        "-",
+        "-"
+    ],
+    "H3.3K27M_XHSJ019-X1-1-Rx_xenograft": [
+        "-",
+        "-",
+        "-",
+        "-",
+        "brain",
+        "brain",
+        "-",
+        "-"
+    ],
+    "gm2588": [
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-"
+    ],
+    "H3.3K27M_Tumor-derived cell-line_DIPGXIIIp11_cells": [
+        "-",
+        "-",
+        "-",
+        "-",
+        "brain",
+        "brain",
+        "-",
+        "-"
+    ],
+    "BCR-ABL1": [
+        "-",
+        "-",
+        "-",
+        "neutrophilic myeloblast",
+        "-",
+        "bone marrow",
+        "-",
+        "embryonic carcinoma cell"
+    ],
+    "BAE": [
+        "-",
+        "-",
+        "-",
+        null,
+        "blood",
+        "skin epidermis",
+        "-",
+        "-"
+    ],
+    "2566": [
+        "-",
+        "-",
+        "-",
+        "-",
+        "brain",
+        "brain",
+        "-",
+        "-"
+    ],
+    "AMIPS8": [
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-"
+    ],
+    "UPR9_hematopoietic_stem_cells": [
+        "-",
+        "-",
+        "hematopoietic stem cell",
+        "hematopoietic stem cell",
+        "bone marrow",
+        "bone marrow",
+        "-",
+        "-"
+    ],
+    "NG108-15": [
+        "-",
+        "U 937 cell",
+        "-",
+        "lymphoblast",
+        "-",
+        "trunk or cervical vertebra",
+        "-",
+        "culture condition:N-acetyl-D-glucosamine-grown cell"
+    ],
+    "Patient_x750N": [
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-"
+    ],
+    "BAE_lung_4": [
+        "-",
+        "-",
+        "-",
+        "-",
+        "alveolus of lung",
+        "alveolus of lung",
+        "-",
+        "-"
+    ],
+    "429_Tumor_H3.3K27WT": [
+        "-",
+        "-",
+        "-",
+        "-",
+        "brain",
+        "left uterine tube",
+        "-",
+        "-"
+    ],
+    "1015_CL": [
+        "-",
+        "-",
+        "-",
+        "-",
+        "lung",
+        "brain",
+        "-",
+        "-"
+    ],
+    "LAL-B_All-B_patient-derived_cell_line": [
+        "-",
+        "-",
+        "-",
+        "hematopoietic cell",
+        "-",
+        "blood",
+        "-",
+        "-"
+    ],
+    "OSvK": [
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-"
+    ],
+    "Hepa 1-6": [
+        "-",
+        "Hep 3B cell",
+        "-",
+        "hepatocyte",
+        "-",
+        "liver",
+        "-",
+        null
+    ],
+    "gm2255": [
+        "-",
+        "-",
+        "-",
+        "B cell",
+        "-",
+        "bone marrow",
+        "-",
+        "-"
+    ],
+    "H3.3K27M-KO_BT245-c4p6-Rx_R2_cells": [
+        "-",
+        "-",
+        "-",
+        "-",
+        "brain",
+        "brain",
+        "-",
+        "-"
+    ],
+    "HUES64_embryonic_stem_cells": [
+        "-",
+        "-",
+        "embryonic stem cell",
+        "embryonic stem cell",
+        "embryo",
+        "embryo",
+        "-",
+        "-"
+    ],
+    "V784": [
+        "-",
+        "-",
+        "colon epithelial cell",
+        null,
+        "colon",
+        "colon",
+        "-",
+        "-"
+    ],
+    "2097": [
+        "-",
+        "-",
+        "-",
+        "-",
+        "brain",
+        "brain",
+        "-",
+        "-"
+    ],
+    "R3R4_erythroid_cells": [
+        "-",
+        "-",
+        "erythroid lineage cell",
+        "erythroid progenitor cell",
+        "blood",
+        "bone marrow",
+        "-",
+        "-"
+    ],
+    "BHK-21": [
+        "-",
+        "9.4 cell",
+        "-",
+        "epithelial cell of urethra",
+        "-",
+        "skin of body",
+        "-",
+        "chorionic villus"
+    ],
+    "patient 119": [
+        "-",
+        "-",
+        "-",
+        "myeloid cell",
+        "-",
+        "blood",
+        "-",
+        "-"
+    ],
+    "H3.3K27M_JN57": [
+        "-",
+        "-",
+        "-",
+        "-",
+        "brain",
+        "brain",
+        "-",
+        "-"
+    ],
+    "V855": [
+        "-",
+        "-",
+        "colon epithelial cell",
+        "colon epithelial cell",
+        "colon",
+        null,
+        "-",
+        "-"
+    ],
+    "keratinocytes stem cell": [
+        "-",
+        "-",
+        "-",
+        "keratinocyte",
+        "-",
+        "skin epidermis",
+        "-",
+        "keratinocyte"
+    ],
+    "NMC_1015": [
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "skin epidermis",
+        "-",
+        "-"
+    ],
+    "H3.3K27M_pcGBM2p18_cells": [
+        "-",
+        "-",
+        "-",
+        "-",
+        "brain",
+        "brain",
+        "-",
+        "-"
+    ],
+    "IMEC MYC": [
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-"
+    ],
+    "V940": [
+        "-",
+        "-",
+        "colon epithelial cell",
+        "-",
+        "colon",
+        "colon",
+        "-",
+        "-"
+    ],
+    "CHO": [
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-"
+    ],
+    "HIES": [
+        "-",
+        "-",
+        "-",
+        "T-helper 1 cell",
+        "-",
+        "blood",
+        "-",
+        "-"
+    ],
+    "FB8470_fibroblasts": [
+        "-",
+        "-",
+        "fibroblast",
+        "skin fibroblast",
+        "connective tissue",
+        "connective tissue",
+        "-",
+        "-"
+    ],
+    "V1106": [
+        "-",
+        "-",
+        "colon epithelial cell",
+        "neural cell",
+        "colon",
+        "colon",
+        "-",
+        "-"
+    ],
+    "GC-spd(ts)": [
+        "-",
+        "-",
+        "-",
+        null,
+        "-",
+        "pancreas",
+        "-",
+        "-"
+    ],
+    "snyder": [
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-"
+    ]
+}
