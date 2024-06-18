@@ -11,8 +11,7 @@ Scripts use one or more of the following libraries:
 - **class_names.py**: Split data by label type and get the name of each identifier to analyze how the tuned model works.
 - **pattern_analysis.py**: Look for a common pattern between the identifier class names and check if there is a valid relationship between them.
 - **llm_contributions.py**: Filter out those cases where there is no reference identifier for a given tag but the model can propose a valid identifier.
-- **match_analysis_accu.py**: Obtain tuned model accuracy for each of the ontologies by label type.
-- **match_analysis_exhaust_f1.py**: Obtain tuned model exhaustiveness and F1-score for each one of the ontologies by label type.
+- **match_analysis.py**: Obtain tuned model accuracy, recall and F1-score for each of the ontologies by label type.
 
 ## Dependencies
 - **dotenv**: Read key-value pairs from a .env file and set them as environment variables
